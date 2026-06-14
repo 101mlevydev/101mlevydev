@@ -12,7 +12,7 @@ First-year **Electrical & Computer Engineering** student at Ben-Gurion Universit
 ### Public projects
 
 - **[studybuddy](https://github.com/101mlevydev/studybuddy)** — Python CLI that turns university exam papers and lecture notes into AI-powered study guides (per-question dossiers, concept maps, strategy guides). Async pipeline, typed, tested.
-- **[bio-bridge](https://github.com/101mlevydev/bio-bridge)** — self-hosted sidecar that pulls Zepp/Amazfit health data, normalizes it, and forwards it to your own endpoint on a systemd timer.
+- **[zepp-sync-sidecar](https://github.com/101mlevydev/zepp-sync-sidecar)** — self-hosted sidecar that pulls Zepp/Amazfit health data, normalizes it, and forwards it to your own endpoint on a systemd timer.
 - **[codesolved](https://github.com/101mlevydev/codesolved)** — marketing/portfolio site for a software studio (React + TypeScript + Vite + Tailwind, multi-theme, animated).
 
 ### Tech I work with
