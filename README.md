@@ -7,7 +7,7 @@ Former IDF Air Force (Air Defense) commander · Ironman finisher.
 ### What I build and run
 
 - **[AthleteOS](https://myathleteos.com)**: an AI training platform for endurance athletes. The AI adapts the training plan and sessions to the athlete's life, gives feedback, and recommends meals and fueling. Designed and built the full stack on my own: FastAPI, LangGraph agents, PostgreSQL, Redis, React, a multi-service Docker stack with CI/CD, and Prometheus/Grafana monitoring.
-- **SmartLi**: a WhatsApp ordering system running on-premise at a car-parts store since September 2026. It turns customer messages into structured orders with AI (tens of orders a week), with automated regression and integration tests. *Private, since it runs a real business.*
+- **SmartLi**: a WhatsApp ordering system for a car-parts store, running in the cloud since September 2026. It turns customer messages into structured orders with AI (tens of orders a week), with automated regression and integration tests. *Private, since it runs a real business.*
 - **Home server**: an old laptop turned into an Ubuntu server running 24/7, with about 10 Docker services, private-network access (Tailscale), DNS for the home network (Pi-hole) and scheduled Python jobs. *Private.*
 
 ### Public projects
