@@ -1,24 +1,24 @@
-# Hi, I'm Michael Levy 👋
+# Michael Levy
 
-First-year **Electrical & Computer Engineering** student at Ben-Gurion University and a formally trained **DevOps** technician. I both write software and run the infrastructure it lives on. I learn by building real things people use, then operating them in production myself.
+Second-year **Electrical & Computer Engineering** student at Ben-Gurion University, with a DevOps diploma. I build software, test it, and run the systems it lives on myself. What I enjoy most is troubleshooting: finding why a system fails and getting it working again.
 
-🏊‍♂️🚴‍♂️🏃‍♂️ Ironman triathlete · former IDF Air Defense commander.
+Former IDF Air Force (Air Defense) commander · Ironman finisher.
 
 ### What I build and run
 
-- **[AthleteOS](https://myathleteos.com)** — a bootstrapped AI training platform for endurance athletes that I designed, built, and operate end to end (FastAPI, React/TypeScript, a multi-agent LLM plan generator, and a self-hosted multi-service Docker stack with my own CI/CD and monitoring). *Live product.*
-- **SmartLi** — a live AI WhatsApp order system deployed on-premise for a real car-parts business, replacing hundreds of daily phone calls with a structured, parsed order queue. *Private (runs a real business).*
+- **[AthleteOS](https://myathleteos.com)**: an AI training platform for endurance athletes. The AI adapts the training plan and sessions to the athlete's life, gives feedback, and recommends meals and fueling. Built on my own with AI coding tools: FastAPI, LangGraph agents, PostgreSQL, Redis, React, a multi-service Docker stack with CI/CD, and Prometheus/Grafana monitoring.
+- **SmartLi**: a WhatsApp ordering system running on-premise at a car-parts store for about two months. It turns customer messages into structured orders with AI (tens to hundreds of orders a week), with automated regression and integration tests. *Private, since it runs a real business.*
+- **Home server**: an old laptop turned into an Ubuntu server running 24/7, with about 10 Docker services, private-network access (Tailscale), DNS for the home network (Pi-hole) and scheduled Python jobs. *Private.*
 
 ### Public projects
 
-- **[studybuddy](https://github.com/101mlevydev/studybuddy)** — Python CLI that turns university exam papers and lecture notes into AI-powered study guides (per-question dossiers, concept maps, strategy guides). Async pipeline, typed, tested.
-- **[pulsebridge](https://github.com/101mlevydev/pulsebridge)** — self-hosted sidecar that pulls Zepp/Amazfit health data, normalizes it, and forwards it to your own endpoint on a systemd timer.
-- **[codesolved](https://github.com/101mlevydev/codesolved)** — marketing/portfolio site for a software studio (React + TypeScript + Vite + Tailwind, multi-theme, animated).
+- **[studybuddy](https://github.com/101mlevydev/studybuddy)**: a Python CLI that turns exam papers and lecture notes into AI study guides. Async pipeline with resumable runs, cost tracking and tests.
+- **[pulsebridge](https://github.com/101mlevydev/pulsebridge)**: a self-hosted Python service that pulls wearable health data, normalizes it and forwards it to your own endpoint, on a systemd timer with incremental sync in SQLite.
 
-### Tech I work with
+### Tools
 
-`Python` · `TypeScript` · `Docker` · `Linux` · `CI/CD` · `FastAPI` · `Node.js` · `PostgreSQL` · `Redis` · `React` · `Next.js` · `Prometheus` · `Grafana` · `LangGraph`
+`Python` · `TypeScript` · `Bash` · `SQL` · `Linux` · `Docker` · `CI/CD` · `FastAPI` · `Node.js` · `PostgreSQL` · `Redis` · `React` · `Prometheus` · `Grafana` · `LangGraph`
 
-### Reach me
+### Contact
 
-🌐 [myathleteos.com](https://myathleteos.com) · 💼 [LinkedIn](https://www.linkedin.com/in/michael-levy-574a0b272) · 📧 101mlevy@gmail.com
+[LinkedIn](https://www.linkedin.com/in/michael-levy-574a0b272) · 101mlevy@gmail.com
